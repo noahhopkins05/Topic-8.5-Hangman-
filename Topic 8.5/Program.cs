@@ -51,7 +51,7 @@ class Program
 
         if (!wordGuessed)
         {
-            Console.WriteLine("You ran out of attempts. The word was: " + wordToGuess)
+            Console.WriteLine("You ran out of attempts. The word was: " + wordToGuess);
         }
 
         Console.WriteLine("Press any key to exit.");
